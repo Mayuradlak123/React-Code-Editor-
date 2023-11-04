@@ -41,29 +41,14 @@ const Footer = () => {
         </a>
         Code at{" "}
         <a
-          href="https://github.com/Mayuradlak123/react-code-editor"
+          href="https://github.com/Mayuradlak123/React-Code-Editor-.git"
           target="__blank"
           className="text-gray-700  hover:bg-red-500 hover:text-white font-medium"
         >
           GitHub.{" "}
         </a>
-        Blog on{" "}
-        <a
-          href="https://www.freecodecamp.org/news/how-to-build-react-based-code-editor/"
-          target="__blank"
-          className="text-gray-700  hover:bg-red-500 hover:text-white font-medium"
-        >
-          FreeCodeCamp
-        </a>
-        . Visit{" "}
-        <a
-          href="https://algochurn.com"
-          target="__blank"
-          className="text-gray-700  hover:bg-red-500 hover:text-white font-medium"
-        >
-          Algochurn{" "}
-        </a>
-        to ace your next frontend interview.
+      
+      
       </span>
     </div>
   );
